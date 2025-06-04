@@ -9,7 +9,7 @@ This project is a movie recommendation system that suggests similar movies based
 To get started, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/shiveejaiswal/Movie-Recommendation-Model
+git clone https://github.com/kaatyainijaiswal/Movie-Recommendation-Model
 ```
 
 ### Navigate into the project directory:
