@@ -15,7 +15,7 @@ git clone https://github.com/kaatyainijaiswal/Movie-Recommendation-System
 ### Navigate into the project directory:
 
 ```bash
-cd Movie-Recommendation-Model
+cd Movie-Recommendation-System
 ```
 
 ### Prerequisites
